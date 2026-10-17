@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f247a66faba08c9f098c6076",
+  "owner": "arjmps",
+  "repo": "page-da55f3f7cd8f603e59634055",
+  "title": "貓貓互聯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "da55f3f7cd8f603e59634055",
+      "a": "貓貓互聯",
+      "b": "",
+      "entity": "貓貓互聯",
+      "brand": "貓貓互聯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "578ce3c4493685f44c2709b77ab80a60048d742f814b5236f894212e6f6394a8",
+      "content": {
+        "keyword1": "貓貓互聯",
+        "keyword2": "",
+        "primary_entity": "貓貓互聯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "貓貓互聯以说明书体例整理三档会员的流量额度、同时在线设备数、结算口径与操作步骤，并附可折叠的问题核对，供开户前后对照。",
+          "AI_DESCRIPTION": "貓貓互聯以说明书体例整理三档会员的流量额度、同时在线设备数、结算口径与操作步骤，并附可折叠的问题核对，供开户前后对照。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{background:#1A110C}\nbody{background:#1A110C;color:#E6D8C8;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;font-size:16px;line-height:1.7;min-height:100vh}\na{color:#9FE0C8;text-decoration:none}\na:hover{color:#C8F3E4}\n.nav{height:34px;display:flex;align-items:center;justify-content:space-between;padding:0 5vw;background:#120C08;border-bottom:1px solid #6FBFAB;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#9FE0C8}\n.nav b{font-weight:600;color:#E6D8C8;letter-spacing:.22em}\n.nav ol{display:flex;gap:1.4rem;list-style:none}\nmain{padding-bottom:4rem}\n.hero{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(260px,.82fr);gap:4vw;align-items:start;padding:4.2rem 5vw 3.2rem}\n.kicker{font-size:12px;letter-spacing:.2em;color:#7FBFAD;margin-bottom:1.1rem}\nh1{font-size:clamp(2.1rem,5vw,3.4rem);font-weight:650;line-height:1.15;color:#F3EBE1;letter-spacing:.06em;margin-bottom:1.4rem}\n.lead{max-width:38em;color:#D2C2B0;font-size:1.02rem}\n.lead+ .lead{margin-top:1rem}\n.panel{background:#2B1C14;padding:1.5rem 1.4rem 1.2rem;color:#E6D8C8}\n.panel h2{font-size:13px;font-weight:600;letter-spacing:.16em;color:#9FE0C8;margin-bottom:1rem}\n.panel .row{display:flex;justify-content:space-between;gap:1rem;padding:.85rem 0;font-size:14px}\n.panel .row dt{color:#A89482}\n.panel .row dd{color:#F2E8DC;text-align:right}\n.wrap{padding:0 5vw;max-width:1080px}\nh2{font-size:1.35rem;font-weight:650;color:#F3EBE1;letter-spacing:.04em;margin:0 0 1rem}\nh2 span{display:block;font-size:11px;letter-spacing:.2em;color:#7FBFAD;font-weight:500;margin-bottom:.45rem}\nh3{font-size:1.18rem;font-weight:650;color:#F3EBE1;margin-bottom:.4rem}\n.prose{color:#D2C2B0;max-width:42em}\n.prose p+p{margin-top:.9rem}\n.sec{padding:2.6rem 5vw 0}\n.steps{margin-top:1.4rem;max-width:42em}\n.steps li{list-style:none;padding:1.15rem 0;color:#D2C2B0}\n.steps li strong{display:block;color:#9FE0C8;font-size:13px;letter-spacing:.12em;font-weight:600;margin-bottom:.35rem}\n.plans{margin-top:.6rem;max-width:44em}\n.plan{padding:2.4rem 0}\n.plan .meta{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.6rem 1.5rem;margin-bottom:.85rem}\n.plan .price{color:#9FE0C8;font-size:1.55rem;font-weight:650;letter-spacing:.04em}\n.plan .year{color:#B8A090;font-size:14px;margin:.15rem 0 1rem}\n.plan ul{list-style:none;color:#D2C2B0}\n.plan li{padding:.28rem 0}\n.mark{display:inline-block;font-size:11px;letter-spacing:.16em;color:#1A110C;background:#9FE0C8;padding:.15rem .5rem;margin-bottom:.7rem;font-weight:650}\n.clients{max-width:42em;color:#D2C2B0}\n.clients h3{margin-top:1.4rem}\n.faq{max-width:44em;margin-top:.4rem}\n.faq details{padding:1.15rem 0}\n.faq summary{cursor:pointer;color:#F3EBE1;font-weight:600;list-style:none}\n.faq summary::-webkit-details-marker{display:none}\n.faq summary::before{content:\"＋ \";color:#9FE0C8;letter-spacing:0}\n.faq details[open] summary::before{content:\"－ \"}\n.faq details p{margin-top:.7rem;color:#D2C2B0}\n.foot{margin:3.5rem 5vw 0;padding-top:1.2rem;color:#8A7464;font-size:12px;letter-spacing:.08em}\n@media(max-width:860px){\n.nav{height:auto;min-height:34px;flex-wrap:wrap;gap:.4rem .9rem;padding:.55rem 4vw}\n.nav ol{gap:.8rem;flex-wrap:wrap}\n.hero{grid-template-columns:1fr;gap:1.8rem;padding:2.4rem 4vw 1.6rem}\n.sec,.wrap,.foot{padding-left:4vw;padding-right:4vw}\n.plan .price{font-size:1.35rem}\n}\n</style><nav class=\"nav\">\n<b>貓貓互聯</b>\n<ol>\n<li><a href=\"#outline\">要点</a></li>\n<li><a href=\"#usage\">步骤</a></li>\n<li><a href=\"#plans\">档位</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">核对</a></li>\n</ol>\n</nav>\n<main>\n<section class=\"hero\">\n<div>\n<p class=\"kicker\">公开说明文本 · 供档位对照</p>\n<h1>貓貓互聯</h1>\n<p class=\"lead\">本页按说明书体例记录貓貓互聯现行三档会员的计量口径：每月流量额度、同时在线设备数、月付与年付标价。阅读时请以账户页面的实时数字为准，若与本页不一致，以账户页面为准。</p>\n<p class=\"lead\">正文不描述传输路径、可达站点或第三方应用表现。需要动手操作时，请转到「操作步骤」；需要挑选档位时，请转到「档位对照」。</p>\n</div>\n<aside class=\"panel\">\n<h2>摘要面板</h2>\n<div class=\"row\"><dt>档位数量</dt><dd>3</dd></div>\n<div class=\"row\"><dt>计量单位</dt><dd>自然周期内流量（GB）</dd></div>\n<div class=\"row\"><dt>设备口径</dt><dd>同时保持会话的终端</dd></div>\n<div class=\"row\"><dt>标价货币</dt><dd>人民币</dd></div>\n<div class=\"row\"><dt>年付对照</dt><dd>各档已单列</dd></div>\n<div class=\"row\"><dt>文本性质</dt><dd>说明，非质量承诺</dd></div>\n</aside>\n</section>\n<section class=\"sec\" id=\"outline\">\n<h2><span>01</span>说明要点</h2>\n<div class=\"prose\">\n<p>貓貓互聯的会员按档位登记。档位之间可核对的差别只有三项：周期内可计入的流量、允许同时在线的设备台数、以及对应的月付与年付金额。除此以外的体验差异，本页不予描述。</p>\n<p>流量在同一账户内累计。是否按自然月重置、是否按订购日起算，以账户内标注为准。设备数量按同一时刻仍保持会话的终端统计，不按历史上安装过的次数统计。更换手机或电脑前，应先结束旧会话，以免占满名额。</p>\n<p>下列步骤默认你已经持有可登录的账户。尚未开户时，先完成登记，再回来核对应选档位。支付、发票与改档路径不在本说明范围内。</p>\n</div>\n</section>\n<section class=\"sec\" id=\"usage\">\n<h2><span>02</span>操作步骤</h2>\n<ol class=\"steps\">\n<li><strong>步骤一 · 清点终端</strong>写下同一时段需要保持连接的设备台数。只计会同时在线的部分，不计偶尔使用、可错开的部分。</li>\n<li><strong>步骤二 · 估计流量</strong>按过往互访习惯估计一个月的传输量，并预留余量。不要用瞬时测速结果代替月额度判断。</li>\n<li><strong>步骤三 · 对照档位</strong>打开本页「档位对照」，选择设备上限不低于步骤一、流量额度不低于步骤二的一档。若两档都覆盖，优先核对价格较低的一档。</li>\n<li><strong>步骤四 · 完成登记</strong>在账户内写入所选档位，并抄录起止日期。年付与月付的切换规则以账户说明为准。</li>\n<li><strong>步骤五 · 准备客户端</strong>使用你本机已核验来源的客户端，填入账户侧给出的接入参数。本页不提供安装包。</li>\n<li><strong>步骤六 · 核对计数</strong>连接建立后，以账户面板的已用流量和在线设备数为准。面板未刷新前，不要重复开启新会话。</li>\n</ol>\n</section>\n<section class=\"sec\" id=\"plans\">\n<h2><span>03</span>档位对照</h2>\n<p class=\"prose\">三档按额度递增单列。下列价格与权益已写入本页，便于逐项抄录。推荐标记仅表示在中等用量下可优先核对，不表示该档具有未列出的能力。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<div class=\"meta\">\n<h3>基础版</h3>\n<p class=\"price\">¥15 / 月</p>\n</div>\n<p class=\"year\">按年付为 ¥150 / 年</p>\n<ul>\n<li>每月计入流量 100GB</li>\n<li>同时在线设备 3 台</li>\n<li>适合单人、可预估的低频互访</li>\n<li>工单按普通队列处理</li>\n</ul>\n</article>\n<article class=\"plan\">\n<p class=\"mark\">建议先核对此档</p>\n<div class=\"meta\">\n<h3>旗舰版</h3>\n<p class=\"price\">¥35 / 月</p>\n</div>\n<p class=\"year\">按年付为 ¥350 / 年</p>\n<ul>\n<li>每月计入流量 300GB</li>\n<li>同时在线设备 5 台</li>\n<li>适合中等用量或少量设备轮换</li>\n<li>工单按登记顺序靠前处理</li>\n</ul>\n</article>\n<article class=\"plan\">\n<div class=\"meta\">\n<h3>团队版</h3>\n<p class=\"price\">¥85 / 月</p>\n</div>\n<p class=\"year\">按年付为 ¥850 / 年</p>\n<ul>\n<li>每月计入流量 1000GB</li>\n<li>同时在线设备 20 台</li>\n<li>适合多人共用同一账户额度</li>\n<li>分组与路由由账户侧另行配置，本页不展开内部实现</li>\n</ul>\n</article>\n</div>\n</section>\n<section class=\"sec\" id=\"clients\">\n<h2><span>04</span>客户端准备</h2>\n<div class=\"clients\">\n<p>貓貓互聯不在本页分发安装文件，也没有可供核对的官方下载地址。请只使用你已经能够核验来源与完整性的程序。参数以账户通知或面板导出为准，过期参数应停止使用。</p>\n<h3>桌面环境</h3>\n<p>在个人电脑上，按操作系统选择你惯用的终端程序，将服务器地址、端口、认证信息逐项填入。填完后先建立一次短连接，确认账户已开始计数，再保持长连接。</p>\n<h3>移动环境</h3>\n<p>在手机或平板上采用同样原则：不从未知页面获取安装包。若系统对后台会话有限制，需在系统设置里允许该程序保持网络，以免会话被清掉后重复占用设备名额。</p>\n<h3>无法确认来源时</h3>\n<p>暂停安装。回到账户侧询问应使用的参数格式，而不是在本页寻找链接。本页所有指向均不导向交易或下载。</p>\n</div>\n</section>\n<section class=\"sec\" id=\"faq\">\n<h2><span>05</span>问题核对</h2>\n<div class=\"faq\">\n<details>\n<summary>流量在什么时候清零？</summary>\n<p>按账户页面标注的周期重置。可能是自然月，也可能是订购日滚动。本页不另指定重置时刻，也不把未写出的优惠视为有效。</p>\n</details>\n<details>\n<summary>额度用尽之后还会继续计数吗？</summary>\n<p>达到当周期上限后，新的互访应停止。是否允许临时提高档位，以账户规则为准。本说明不保证补额路径。</p>\n</details>\n<details>\n<summary>设备台数按什么算？</summary>\n<p>按同一时刻仍保持会话的终端数。同一部设备断开后再连，一般仍计一台；两部设备同时在线，计两台。安装次数本身不占用名额。</p>\n</details>\n<details>\n<summary>年付和月付如何对照？</summary>\n<p>基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。上述数字已与月价一并列出。中途改档、停用后的余额处理，以账户侧规则为准，本页不承诺退还。</p>\n</details>\n<details>\n<summary>为什么这里没有安装入口？</summary>\n<p>因为没有可核验的下载地址可供写入。客户端需自行准备。若有人向你发送来历不明的文件并声称代表貓貓互聯，应拒绝执行，回到账户内核对参数。</p>\n</details>\n<details>\n<summary>本页能否当作服务能力证明？</summary>\n<p>不能。本页只整理档位数字与操作顺序，不证明速度、稳定性、可达范围、日志策略或兼容清单。未在事实中给出的项目，一律视为未说明。</p>\n</details>\n</div>\n</section>\n<p class=\"foot\">貓貓互聯 · 说明文本与档位数字以本页所载为准，账户页面优先于本页。</p>\n</main>",
+          "hash": "a6a42da48e2abfed1e537143aaadfbb849081dc99bd15dfc1c26cbb06420b1b6",
+          "seo": {
+            "title": "貓貓互聯 — 会员档位与使用说明",
+            "keywords": "貓貓互聯,会员档位,流量额度,设备数量,使用说明,问题核对",
+            "description": "貓貓互聯以说明书体例整理三档会员的流量额度、同时在线设备数、结算口径与操作步骤，并附可折叠的问题核对，供开户前后对照。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "9888",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wafhz.cn",
+    "host": "p-7a47c9a658.wafhz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9654a0375a732935cccf8b9e3fffb5441893036d1061480ea6e17e1905775a72",
+    "sitemap.xml": "5b55a0d1ca047a632140553c81ffb4abd9c15fe4b463431eb33f5c795304fdfd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4d19924d32735507e03cc0bb5dcda013427a382b4685ca1300bade0fed4f9372",
+    "robots.txt": "3f8388664ad313801ed49014675e0c1b4a1aedc7e8790d112d144d9f9db29cdf",
+    "c4f89aa0e18d6e4adf48fb33071ae3ce.txt": "da7b057eb39bc1b55344ef771d39e51feee4bb7e06700fdc17d1634df3e0acef"
+  },
+  "revision": "6e6e1cab9ff3cf3a16a05a6bba7b1bec721e284bca10d0547ab4a78ee3bfc650"
+}
